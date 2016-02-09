@@ -12,7 +12,7 @@ oscript yadisk-uploader.os -publish C:\Temp\image.png
 https://yadi.sk/i/EKsY57BvoY7BN
 ```
 
-На Яндекс.Диске файлы вы сможете найти в папке `/Прилоожения/OScript.YaDisk.Uploader`.
+На Яндекс.Диске файлы вы сможете найти в папке `/Приложения/OScript.YaDisk.Uploader`.
 
 ### Требования
 
